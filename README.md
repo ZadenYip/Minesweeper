@@ -1,7 +1,10 @@
 # 扫雷游戏 Minesweeper
 
-A game implemented by PySide6  
+A game implemented with PySide6.
 这是一个用 PySide6 实现的扫雷游戏。
+
+A project to just get through school assignments(
+用来应付学校的小组作业(
 
 ## 许可证 License
 
