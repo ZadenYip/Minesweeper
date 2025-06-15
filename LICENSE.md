@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
 SOFTWARE.
-
----
-
-Third-Party Components
-
-This software uses [PySide6](https://pypi.org/project/PySide6/), which is part of the Qt for Python project.  
-PySide6 is licensed under the [GNU Lesser General Public License (LGPL) v3](https://www.gnu.org/licenses/lgpl-3.0.html).
-
-If you distribute this software, ensure compliance with the LGPL when linking or bundling PySide6.
