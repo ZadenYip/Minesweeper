@@ -1,6 +1,4 @@
-# License
-
-## MIT License
+MIT License
 
 Copyright (c) 2025 Zaden Yip
 
@@ -24,7 +22,7 @@ SOFTWARE.
 
 ---
 
-## Third-Party Components
+Third-Party Components
 
 This software uses [PySide6](https://pypi.org/project/PySide6/), which is part of the Qt for Python project.  
 PySide6 is licensed under the [GNU Lesser General Public License (LGPL) v3](https://www.gnu.org/licenses/lgpl-3.0.html).
